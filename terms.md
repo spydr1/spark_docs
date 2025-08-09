@@ -20,7 +20,7 @@ These Legal Terms constitute a legally binding agreement made between you, wheth
 
   
 
-We will provide you with prior notice of any scheduled changes to the Services you are using. Changes to these Legal Terms will become effective  fifteen (15)  days after the notice is given, except if the changes apply to  new functionality,  security updates,  bug fixes, and  a court order, in which case the changes will be effective immediately. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms. If you disagree with such changes, you may terminate Services as per the section  "[TERM AND TERMINATION](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#terms)."
+We will provide you with prior notice of any scheduled changes to the Services you are using. Changes to these Legal Terms will become effective  fifteen (15)  days after the notice is given, except if the changes apply to  new functionality,  security updates,  bug fixes, and  a court order, in which case the changes will be effective immediately. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms. If you disagree with such changes, you may terminate Services as per the section  "[TERM AND TERMINATION]."
 
   
 
@@ -34,73 +34,73 @@ We recommend that you print a copy of these Legal Terms for your records.
 
 ## TABLE OF CONTENTS
 
-[1. OUR SERVICES](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#services)
+[1. OUR SERVICES]
 
-[2. INTELLECTUAL PROPERTY RIGHTS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#ip)
+[2. INTELLECTUAL PROPERTY RIGHTS]
 
-[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#userreps)[3. USER REPRESENTATIONS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#userreps)
+[3. USER REPRESENTATIONS]
 
-[4. USER REGISTRATION](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#userreg)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#products)
+[4. USER REGISTRATION]
 
-[5. PURCHASES AND PAYMENT](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#purchases)
+[5. PURCHASES AND PAYMENT]
 
-[6. SUBSCRIPTIONS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#subscriptions)
+[6. SUBSCRIPTIONS]
 
-[7.  POLICY](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#returnyes)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#software)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#software)
+[7.  POLICY]
 
-[8. PROHIBITED ACTIVITIES](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#prohibited)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#ugc)
+[8. PROHIBITED ACTIVITIES]
 
-[9. USER GENERATED CONTRIBUTIONS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#ugc)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#license)
+[9. USER GENERATED CONTRIBUTIONS]
 
-[10. CONTRIBUTIONLICENSE](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#license)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#reviews)
+[10. CONTRIBUTIONLICENSE]
 
-[11. GUIDELINES FOR REVIEWS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#reviews)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#mobile)
+[11. GUIDELINES FOR REVIEWS]
 
-[12. MOBILE APPLICATION  LICENSE](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#mobile)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#socialmedia)
+[12. MOBILE APPLICATION  LICENSE]
 
-[13. SOCIAL MEDIA](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#socialmedia)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#thirdparty)
+[13. SOCIAL MEDIA]
 
-[14. THIRD-PARTY WEBSITES AND CONTENT](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#thirdparty)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#advertisers)
+[14. THIRD-PARTY WEBSITES AND CONTENT]
 
-[15. ADVERTISERS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#advertisers)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#sitemanage)
+[15. ADVERTISERS]
 
-[16. SERVICES MANAGEMENT](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#sitemanage)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#ppyes)
+[16. SERVICES MANAGEMENT]
 
-[17. PRIVACY POLICY](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#ppyes)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#ppno)
+[17. PRIVACY POLICY]
 
-[18. TERM AND TERMINATION](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#terms)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#modifications)
+[18. TERM AND TERMINATION]
 
-[19. MODIFICATIONS AND INTERRUPTIONS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#modifications)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#law)
+[19. MODIFICATIONS AND INTERRUPTIONS]
 
-[20. GOVERNING LAW](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#law)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#disputes)
+[20. GOVERNING LAW]
 
-[21. DISPUTE RESOLUTION](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#disputes)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#corrections)
+[21. DISPUTE RESOLUTION]
 
-[22. CORRECTIONS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#corrections)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#disclaimer)
+[22. CORRECTIONS]
 
-[23. DISCLAIMER](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#disclaimer)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#liability)
+[23. DISCLAIMER]
 
-[24. LIMITATIONS OF LIABILITY](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#liability)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#indemnification)
+[24. LIMITATIONS OF LIABILITY]
 
-[25. INDEMNIFICATION](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#indemnification)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#userdata)
+[25. INDEMNIFICATION]
 
-[26. USER DATA](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#userdata)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#electronic)
+[26. USER DATA]
 
-[27. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#electronic)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#california)
+[27. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES]
 
-[28. CALIFORNIA USERS AND RESIDENTS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#california)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#misc)
+[28. CALIFORNIA USERS AND RESIDENTS]
 
-[29. MISCELLANEOUS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#misc)[](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#contact)
+[29. MISCELLANEOUS]
 
-[30.  RIGHTS, RESPONSIBILITIES, AND DISCLAIMERS FOR AI-GENERATED CONTENT](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#addclause)
+[30.  RIGHTS, RESPONSIBILITIES, AND DISCLAIMERS FOR AI-GENERATED CONTENT]
 
-[31.  POLICY ON IN-APP CURRENCY ('SPARKS')](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#addclauseb)
+[31.  POLICY ON IN-APP CURRENCY ('SPARKS')]
 
-[32.  SERVICE AVAILABILITY, MODIFICATIONS, AND TERMINATION](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#addclausec)
+[32.  SERVICE AVAILABILITY, MODIFICATIONS, AND TERMINATION]
 
-[33.  USER RESPONSIBILITIES, CONDUCT, AND ACKNOWLEDGEMENTS](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#addclaused)
+[33.  USER RESPONSIBILITIES, CONDUCT, AND ACKNOWLEDGEMENTS]
 
-[34. CONTACT US](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#contact)
+[34. CONTACT US]
 
   
 
@@ -130,7 +130,7 @@ The Content and Marks are provided in or through the Services  "AS IS"  for your
 
 ### Your use of our Services
 
-Subject to your compliance with these Legal Terms, including the  "[PROHIBITED ACTIVITIES](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#prohibited)"  section below, we grant you a non-exclusive, non-transferable, revocable  license  to:
+Subject to your compliance with these Legal Terms, including the  "[PROHIBITED ACTIVITIES]"  section below, we grant you a non-exclusive, non-transferable, revocable  license  to:
 
 -   access the Services; and
 -   download or print a copy of any portion of the Content to which you have properly gained access,
@@ -155,7 +155,7 @@ Any breach of these Intellectual Property Rights will constitute a material brea
 
 ### **Your submissions**
 
-Please review this section and the  "[PROHIBITED ACTIVITIES](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#prohibited)"  section carefully prior to using our Services to understand the (a) rights you give us and (b) obligations you have when you post or upload any content through the Services.
+Please review this section and the  "[PROHIBITED ACTIVITIES]"  section carefully prior to using our Services to understand the (a) rights you give us and (b) obligations you have when you post or upload any content through the Services.
 
   
 
@@ -165,7 +165,7 @@ Please review this section and the  "[PROHIBITED ACTIVITIES](https://app.termly.
 
 **You are responsible for what you post or upload:**  By sending us Submissions  through any part of the Services  you:
 
--   confirm that you have read and agree with our  "[PROHIBITED ACTIVITIES](https://app.termly.io/builder/websites/a1dd2cf1-0e70-434c-a965-69ee3f0e3c1b/documents/9428520/Other%20Considerations/Marketing%20and%20Promotional%20Communications#prohibited)"  and will not post, send, publish, upload, or transmit through the Services any Submission  that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
+-   confirm that you have read and agree with our  "[PROHIBITED ACTIVITIES]"  and will not post, send, publish, upload, or transmit through the Services any Submission  that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
 -   to the extent permissible by applicable law, waive any and all moral rights to any such Submission;
 -   warrant that any such Submission  are original to you or that you have the necessary rights and  licenses  to submit such Submissions  and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and
 -   warrant and represent that your Submissions  do not constitute confidential information.
