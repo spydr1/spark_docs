@@ -1,3 +1,8 @@
+---
+title: termsOfService
+---
+
+
 # TERMS OF SERVICE
 
 **Last updated**  **August 04, 2025**
